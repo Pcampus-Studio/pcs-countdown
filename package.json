@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Pcampus Studio",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.13.0"
+  }
 }
